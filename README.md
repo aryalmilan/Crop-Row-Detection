@@ -1,5 +1,5 @@
 # Farm Row Detection
-Detect Rows of crop in a farm. Images were collected from google maps.
+Detect Rows of crop in a farm.
 
 Crop Rows detetcted by the model.
 
